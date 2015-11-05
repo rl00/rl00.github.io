@@ -1,3 +1,4 @@
-$("#Title").click(function(){
+$(#Title).click(function(){
         $("p").hide();
         )};
+)};
